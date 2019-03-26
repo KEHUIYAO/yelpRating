@@ -1,4 +1,4 @@
-# stat628_module2
+# Yelp data challenge
 
 ## Repsitory structure:
 
